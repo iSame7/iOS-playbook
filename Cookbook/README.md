@@ -12,6 +12,7 @@
 * [Code review etiquette](../Etiquette/CODE_REVIEW.md)
 
 ## Testing 🧪
+* [Faster unit testing](https://medium.com/@hacknicity/how-to-switch-your-ios-app-and-scene-delegates-for-improved-testing-9746279378c3)
 
 ## Conventions 🍊
 * [Swift Style Guide](./Style-guide)
