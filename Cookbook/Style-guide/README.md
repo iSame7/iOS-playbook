@@ -1,21 +1,2 @@
-# iOS Cookbook 👩‍🍳
- ====================================
- 
-## I am here because I want to learn about our ...
+# Our Swift Style Guide
 
-## Architecture 🏠
-
-* [Architecture Overview](./Technical-Documents/Architecture.md)
-* [Feature Flags](./Technical-Documents/FeatureFlags.md)
-
-## Process 🚓
-* [Code review etiquette](../Etiquette/CODE_REVIEW.md)
-
-## Testing 🧪
-
-## Conventions 🍊
-* [Swift Style Guide](./Style-guide)
-
-## Continuous Integration 🚦
-
-## Tooling 🛠
