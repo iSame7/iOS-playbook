@@ -20,3 +20,4 @@
 ## Continuous Integration 🚦
 
 ## Tooling 🛠
+* [Platform tools](https://github.com/babylonhealth/ios-playbook/blob/master/Cookbook/Technical-Documents/PlatformTools.md)
