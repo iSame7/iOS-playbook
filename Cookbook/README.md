@@ -20,4 +20,5 @@
 ## Continuous Integration 🚦
 
 ## Tooling 🛠
+* [Xcode tips&tricks](./Technical-Documents/XcodeTips.md)
 * [Platform tools](https://github.com/babylonhealth/ios-playbook/blob/master/Cookbook/Technical-Documents/PlatformTools.md)
