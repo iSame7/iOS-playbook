@@ -11,6 +11,7 @@
 ## Process 🚓
 * [Code review etiquette](../Etiquette/CODE_REVIEW.md)
 * [How we communicate](./Communication/Communication.md)
+* [Release process](./Technical-Document/ReleaseProcess.md)
 
 ## Testing 🧪
 * [Faster unit testing](https://medium.com/@hacknicity/how-to-switch-your-ios-app-and-scene-delegates-for-improved-testing-9746279378c3)
