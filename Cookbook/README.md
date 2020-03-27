@@ -19,6 +19,7 @@
 ## Conventions 🍊
 * [Swift Style Guide](./Style-guide)
 * [Git Explorer](https://gitexplorer.com/)
+* [Awesome falshood](https://github.com/kdeldycke/awesome-falsehood)
 
 ## Continuous Integration 🚦
 
