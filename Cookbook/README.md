@@ -23,6 +23,7 @@
 
 ## Continuous Integration 🚦
 * [Awesome Github Actions](https://github.com/sdras/awesome-actions/blob/master/README.md)
+* [Github Actions badge](https://actions-badge.atrox.dev/)
 
 ## Tooling 🛠
 * [Xcode Tips & Tricks](./Technical-Documents/XcodeTips.md)
