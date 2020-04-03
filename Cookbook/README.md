@@ -22,6 +22,7 @@
 * [Awesome falshood](https://github.com/kdeldycke/awesome-falsehood)
 
 ## Continuous Integration 🚦
+* [Awesome Github Actions](https://github.com/sdras/awesome-actions/blob/master/README.md)
 
 ## Tooling 🛠
 * [Xcode Tips & Tricks](./Technical-Documents/XcodeTips.md)
