@@ -28,4 +28,4 @@
 ## Tooling 🛠
 * [Xcode Tips & Tricks](./Technical-Documents/XcodeTips.md)
 * [Platform tools](https://github.com/babylonhealth/ios-playbook/blob/master/Cookbook/Technical-Documents/PlatformTools.md)
-* [Find which apps use your framework] https://www.appsight.io/
+* [Find which apps use your framework](https://www.appsight.io/)
