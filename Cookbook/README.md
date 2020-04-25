@@ -30,3 +30,4 @@
 * [Xcode Tips & Tricks](./Technical-Documents/XcodeTips.md)
 * [Platform tools](https://github.com/babylonhealth/ios-playbook/blob/master/Cookbook/Technical-Documents/PlatformTools.md)
 * [Find which apps use your framework](https://www.appsight.io/)
+* [Lottie](https://swiftsenpai.com/development/lottie-animation-markers/)
