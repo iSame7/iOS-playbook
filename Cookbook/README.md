@@ -32,3 +32,4 @@
 * [Find which apps use your framework](https://www.appsight.io/)
 * [Lottie](https://swiftsenpai.com/development/lottie-animation-markers/)
 * [RocketSim](https://twitter.com/rocketsim_app)
+* [Handling multiple app flavours](https://engineering.circle.com/different-app-icons-for-your-ios-beta-dev-and-release-builds-af4d209cdbfd)
