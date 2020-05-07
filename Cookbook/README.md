@@ -33,3 +33,4 @@
 * [Lottie](https://swiftsenpai.com/development/lottie-animation-markers/)
 * [RocketSim](https://twitter.com/rocketsim_app)
 * [Handling multiple app flavours](https://engineering.circle.com/different-app-icons-for-your-ios-beta-dev-and-release-builds-af4d209cdbfd)
+* [GIF in PR](https://schneems.com/post/41104255619/use-gifs-in-your-pull-request-for-good-not-evil)
