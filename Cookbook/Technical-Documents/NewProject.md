@@ -1,4 +1,4 @@
-Create New Project Checklist
+New Project Checklist
 ========================
 
 1. Create a GitHub repository 
